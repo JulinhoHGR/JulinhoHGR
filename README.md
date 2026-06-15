@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://julinhohgr.github.io/PERSONAL-LANDING/">
+<a href="https://julinhohgr.github.io/Landing-Page/">
   <img src="https://img.shields.io/badge/🌐_Acessar_Portfólio-000?style=for-the-badge&logo=github" />
 </a>
 </p>
